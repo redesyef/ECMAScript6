@@ -25,7 +25,7 @@ let istifNames3 = (names, ages, country) => {
 //es6 promiese
 const helloPromise = () => {
     return new Promise((resolve, reject) => {
-        if (true){
+        if (false){
             resolve('Hey!');
         } else{
             reject('ups!!');

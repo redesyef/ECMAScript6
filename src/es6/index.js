@@ -60,7 +60,8 @@ console.log(education);
 }
 console.log(globalvar);
 
-const a = 'b';
+var a = 'b';
+var a = 'c'
 console.log(a)
 
 
